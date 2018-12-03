@@ -131,7 +131,7 @@
       }
     }
   },
-  "defaultProject": "scbThemeGroup",
+  "defaultProject": "sbbThemeGroup",
   "schematics": {
     "@schematics/angular:component": {
       "styleext": "scss"

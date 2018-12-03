@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Structural and Computational Biology Theme Group';
+  title = 'Structural Biology and Biochemistry Theme Group';
   collapsed = true;
 
   toggleCollapsed(): void {
