@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "docs/scbThemeGroup/",
+            "outputPath": "dist/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -131,7 +131,7 @@
       }
     }
   },
-  "defaultProject": "scbThemeGroup",
+  "defaultProject": "sbbThemeGroup",
   "schematics": {
     "@schematics/angular:component": {
       "styleext": "scss"
